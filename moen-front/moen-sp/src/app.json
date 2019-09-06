@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/award/main",
+    "pages/uploadimg/main",
+    "pages/chooseCoupon/main",
+    "pages/addGoods/main",
+    "pages/login/main",
+    "pages/storekpi/main",
+    "pages/minekpi/main",
+    "pages/scanIdentityCode/main",
+    "pages/chargeBackSubmit/main",
+    "pages/chargeBackSuccess/main",
+    "pages/chargeBackList/main",
+    "pages/chargeBack/main",
+    "pages/transactionDetail/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "摩恩店员",
+    "navigationBarTextStyle": "black"
+  }
+  
+}

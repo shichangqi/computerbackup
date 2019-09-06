@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/privacyStatement/main",
+    "pages/authorization/main",
+    "pages/activeRules/main",
+    "pages/mineCouponCode/main",
+    "pages/mineCoupon/main",
+    "pages/transactionRecord/main",
+    "pages/transactionDetail/main",
+    "pages/getCoupon/main",
+    "pages/register/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "摩恩促销",
+    "navigationBarTextStyle": "black"
+  }
+}

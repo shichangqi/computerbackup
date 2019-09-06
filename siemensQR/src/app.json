@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/boschindex/main",
+    "pages/authorization/main",
+    "pages/mine/main",
+    "pages/serviceLog/main",
+    "pages/contactWay/main",
+    "pages/editContact/main",
+    "pages/newContact/main",
+    "pages/product/main",
+    "pages/productCenter/main",
+    "pages/richText/main",
+    "pages/productmodal/main",
+    "pages/appearancesize/main",
+    "pages/heightlight/main"
+  ],
+  "plugins": {
+    "tencentvideo": {
+      "version": "1.3.0",
+      "provider": "wxa75efa648b60994b"
+    }
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "navigateToMiniProgramAppIdList": [
+    "wxe89498bdbf291da2",
+    "wx850d691fd02de8a1"
+  ]
+
+}

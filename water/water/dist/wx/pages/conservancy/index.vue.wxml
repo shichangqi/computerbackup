@@ -1,0 +1,40 @@
+<template name="24268038">
+  <view class="_div data-v-1230fa72 container">
+    <view class="_div data-v-1230fa72 hardness">
+      <view class="_div data-v-1230fa72 city" bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}">
+        <view class="_div data-v-1230fa72">{{getList.province}}{{getList.city}}{{getList.district}}</view>
+        <image src="/static/images/icon-Path.png" alt class="_img data-v-1230fa72"></image>
+      </view>
+      <view class="_div data-v-1230fa72 Location">
+        <image src="/static/images/icon-Shape.png" alt class="_img data-v-1230fa72"></image> <label class="_span data-v-1230fa72">重新定位</label>
+      </view>
+    </view>
+    <view class="_div data-v-1230fa72 bor"></view>
+    <view class="_div data-v-1230fa72 Water"><label class="_span data-v-1230fa72">水硬度值</label>
+      <image src="/static/images/icon3.png" alt class="_img data-v-1230fa72"></image>
+    </view>
+    <view class="_div data-v-1230fa72 num">{{getList.waterHardnessValue}}</view>
+    <view class="_div data-v-1230fa72 hardness_btn">
+      <view class="_div data-v-1230fa72 hardness_msg">
+        <view class="_div data-v-1230fa72 Set_up">
+          <view class="_h3 data-v-1230fa72">洗碗机设置</view>
+        </view>
+        <view class="_div data-v-1230fa72 set_msg">
+          <view class="_div data-v-1230fa72 set_left">
+            <image src="/static/images/icon1.png" alt class="_img data-v-1230fa72"></image>
+            <view class="_h4 data-v-1230fa72">请设置为</view>
+            <view class="_p data-v-1230fa72">{{getList.avalue}}</view>
+            <view class="_div data-v-1230fa72 btn">查看操作方式</view>
+          </view>
+          <view class="_div data-v-1230fa72 set_left">
+            <image src="/static/images/icon1.png" alt class="_img data-v-1230fa72"></image>
+            <view class="_h4 data-v-1230fa72">请设置为</view>
+            <view class="_p data-v-1230fa72">{{getList.bvalue}}</view>
+            <view class="_div data-v-1230fa72 btn">查看操作方式</view>
+          </view>
+        </view>
+        <view class="_div data-v-1230fa72 Explain">目前仅提供西门子操作方式视频，博世设备请查看相关说明书</view>
+      </view>
+    </view>
+  </view>
+</template>

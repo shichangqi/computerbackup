@@ -1,0 +1,3 @@
+<template name="b6c05f34">
+  <view class="_div data-v-434391e0 authorize"><button open-type="getUserInfo" bindgetuserinfo="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_button data-v-434391e0">获取微信授权</button></view>
+</template>

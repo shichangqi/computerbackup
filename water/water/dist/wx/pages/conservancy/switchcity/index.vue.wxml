@@ -1,0 +1,15 @@
+<template name="cecb0a42">
+  <view class="_div data-v-5313541c container">
+    <view class="_div data-v-5313541c switchLocale">
+      <view class="_div data-v-5313541c Search">
+        <image src="/static/images/icon_s.png" alt class="_img data-v-5313541c"></image> <input type="text" value="{{key}}" bindinput="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_input data-v-5313541c" />
+      </view>
+      <view class="_div data-v-5313541c switchLocale_msg" wx:if="{{getList.length}}">
+        <view wx:key="index" key="{{index}}" wx:for="{{getList}}" wx:for-index="index" wx:for-item="item" class="_ul data-v-5313541c">
+          <view bindtap="handleProxy" data-eventid="{{'1-'+index}}" data-comkey="{{$k}}" class="_li data-v-5313541c">{{item.province}} {{item.city}} {{item.district}}</view>
+        </view>
+      </view>
+      <view class="_div data-v-5313541c No_data" wx:if="{{isShow && !getList.length}}">暂无数据</view>
+    </view>
+  </view>
+</template>

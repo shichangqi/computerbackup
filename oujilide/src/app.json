@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/personalCenter/main",
+    "pages/CheckTrueNext/main",
+    "pages/nextStep/main",
+    "pages/register/main", 
+    "pages/checkRecords/main",
+    "pages/CheckTrue/main",
+    "pages/updateTopic/main",
+    "pages/QA/main",
+    "pages/updateMail/main",
+    "pages/personalData/main",
+    "pages/authorization/main",
+    "pages/noPermission/main",
+    "pages/questionDetail/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}

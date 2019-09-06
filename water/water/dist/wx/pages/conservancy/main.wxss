@@ -1,0 +1,124 @@
+
+.container.data-v-1230fa72 {
+  width: 100%;
+}
+.container .hardness.data-v-1230fa72 {
+  padding: 28rpx 30rpx 0 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: flex-end;
+}
+.container .hardness .city.data-v-1230fa72 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-right: 68rpx;
+}
+.container .hardness .city ._div.data-v-1230fa72 {
+  font-size: 28rpx;
+  color: #3C464B;
+  margin-right: 30rpx;
+}
+.container .hardness .city ._img.data-v-1230fa72 {
+  width: 32rpx;
+  height: 20rpx;
+}
+.container .hardness .Location.data-v-1230fa72 {
+  display: flex;
+  align-items: center;
+}
+.container .hardness .Location ._img.data-v-1230fa72 {
+  width: 24rpx;
+  height: 24rpx;
+  margin-right: 8rpx;
+}
+.container .hardness .Location ._span.data-v-1230fa72 {
+  font-size: 20rpx;
+  color: #176DD0;
+}
+.container .bor.data-v-1230fa72 {
+  width: 48rpx;
+  margin: 32rpx auto;
+  border-top: 2rpx solid #3C464B;
+}
+.container .Water.data-v-1230fa72 {
+  text-align: center;
+}
+.container .Water ._span.data-v-1230fa72 {
+  font-size: 24rpx;
+  color: #3C464B;
+  text-align: center;
+  margin-right: 16rpx;
+}
+.container .Water ._img.data-v-1230fa72 {
+  width: 22rpx;
+  height: 22rpx;
+}
+.container .num.data-v-1230fa72 {
+  text-align: center;
+  font-size: 120rpx;
+  font-weight: 400;
+  color: #176dd0;
+  line-height: 336rpx;
+  text-shadow: 0 12rpx 30rpx rgba(103, 159, 229, 0.63);
+}
+.container .hardness_btn.data-v-1230fa72 {
+  width: 100%;
+  background: #176DD0;
+  padding: 186rpx 40rpx 74rpx 40rpx;
+  box-sizing: border-box;
+}
+.container .hardness_btn .hardness_msg.data-v-1230fa72 {
+  padding: 56rpx 60rpx 50rpx 54rpx;
+  background: #ffffff;
+  box-shadow: 0 8rpx 28rpx 0 rgba(0, 0, 0, 0.2);
+  border-radius: 74rpx;
+}
+.container .hardness_btn .hardness_msg .Set_up ._h3.data-v-1230fa72 {
+  font-size: 36rpx;
+  color: #3C464B;
+  text-align: center;
+  margin-bottom: 58rpx;
+}
+.container .hardness_btn .hardness_msg .set_msg.data-v-1230fa72 {
+  display: flex;
+  justify-content: flex-start;
+}
+.container .hardness_btn .hardness_msg .set_msg .set_left.data-v-1230fa72 {
+  width: 240rpx;
+  background: #fff;
+  margin-right: 78rpx;
+}
+.container .hardness_btn .hardness_msg .set_msg .set_left ._img.data-v-1230fa72 {
+  width: 240rpx;
+  height: 68rpx;
+  margin-bottom: 28rpx;
+}
+.container .hardness_btn .hardness_msg .set_msg .set_left ._h4.data-v-1230fa72 {
+  font-size: 24rpx;
+  color: #3C464B;
+  display: block;
+  text-align: center;
+}
+.container .hardness_btn .hardness_msg .set_msg .set_left ._p.data-v-1230fa72 {
+  font-size: 70rpx;
+  color: #3C464B;
+  text-align: center;
+}
+.container .hardness_btn .hardness_msg .set_msg .set_left .btn.data-v-1230fa72 {
+  width: 236rpx;
+  height: 68rpx;
+  line-height: 68rpx;
+  background: #176DD0;
+  box-shadow: 0 8rpx 28rpx 0 rgba(0, 0, 0, 0.2);
+  border-radius: 74rpx;
+  text-align: center;
+  font-size: 24rpx;
+  color: #FFFFFF;
+  margin-top: 20rpx;
+}
+.container .hardness_btn .hardness_msg .Explain.data-v-1230fa72 {
+  font-size: 20rpx;
+  color: #3C464B;
+  margin-top: 60rpx;
+}

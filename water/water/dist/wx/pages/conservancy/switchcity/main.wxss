@@ -1,0 +1,50 @@
+
+.container.data-v-5313541c {
+  width: 100%;
+  background: #F4F4F4;
+}
+.container .switchLocale.data-v-5313541c {
+  width: 100%;
+  padding: 30rpx 30rpx 0 30rpx;
+  box-sizing: border-box;
+}
+.container .switchLocale .Search.data-v-5313541c {
+  width: 100%;
+  position: relative;
+  margin-bottom: 24rpx;
+}
+.container .switchLocale .Search ._img.data-v-5313541c {
+  width: 32rpx;
+  height: 32rpx;
+  position: absolute;
+  left: 40rpx;
+  top: 20rpx;
+}
+.container .switchLocale .Search ._input.data-v-5313541c {
+  width: 690rpx;
+  height: 72rpx;
+  background: #ffffff;
+  box-shadow: 0 2rpx 14rpx 0 rgba(0, 0, 0, 0.2);
+  border-radius: 44rpx;
+  padding-left: 102rpx;
+  box-sizing: border-box;
+  font-size: 24rpx;
+  color: #3C464B;
+}
+.container .switchLocale .switchLocale_msg.data-v-5313541c {
+  width: 100%;
+}
+.container .switchLocale .switchLocale_msg ._ul.data-v-5313541c {
+  width: 100%;
+}
+.container .switchLocale .switchLocale_msg ._ul ._li.data-v-5313541c {
+  border-bottom: 2rpx solid #E5E5E5;
+  padding: 26rpx 0 30rpx 0;
+  box-sizing: border-box;
+  font-size: 24rpx;
+  color: #3C464B;
+}
+.container .switchLocale .No_data.data-v-5313541c {
+  text-align: center;
+  font-size: 48rpx;
+}

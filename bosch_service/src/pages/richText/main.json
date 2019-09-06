@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "博世家电官方服务",
+  "usingComponents": {
+    "txv-video": "plugin://tencentvideo/video"
+  }
+}
